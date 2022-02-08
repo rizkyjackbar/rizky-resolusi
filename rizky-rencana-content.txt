@@ -1,5 +1,7 @@
 RENCANA KONTEN RIZKY 
 
 - Membuat Video Javascript
+ * ES6
+ * Freamwork Javascript
 - Membuat Video PHP Dasar 
 - Membuat Tutorial HTML & CSS
