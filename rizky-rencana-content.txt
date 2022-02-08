@@ -1,0 +1,5 @@
+RENCANA KONTEN RIZKY 
+
+- Membuat Video Javascript
+- Membuat Video PHP Dasar 
+- Membuat Tutorial HTML & CSS
