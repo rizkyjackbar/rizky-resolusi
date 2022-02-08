@@ -3,6 +3,9 @@ RENCANA KONTEN RIZKY
 - Membuat Video Javascript
  * ES6
  * Freamwork Javascript
+  ^ Vue
 - Membuat Video Github
 - Membuat Video PHP Dasar 
+  ^ Laravel
 - Membuat Tutorial HTML & CSS
+- Phyton
